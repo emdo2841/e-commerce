@@ -10,7 +10,8 @@ const Err = ({ url }) => {
           Oops! Something went wrong... please try again.
         </p>
         <button
-          className="px-4 py-2 rounded-lg bg-yellow-500 text-black cursor-pointer hover:bg-yellow-400"
+          id="err-btn"
+          className="px-4 py-2 rounded-lg bg-[#796706] text-black cursor-pointer hover:bg-yellow-400"
           onClick={() => navigate(url)}
         >
           Try Again

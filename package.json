@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "lucide-react": "^0.513.0",
+    "react-loading-icons": "^1.1.0",
+    "react-router-dom": "^7.6.2"
+  },
+  "name": "e-commerce-project",
+  "version": "1.0.0",
+  "description": "e-commerce capstone project for Access bank and CareerEx",
+  "main": "app.jsx",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "e-commerce",
+    "online",
+    "shopping",
+    "cart",
+    "apple"
+  ],
+  "author": "emmanuel jonathan",
+  "license": "ISC"
+}
